@@ -11,7 +11,7 @@ LinkedIn[![LinkedIn][1]][2] Gmail[![Gmail][1.2][2.2]
 
 <!-- Icons -->
 [1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-[1.2]: https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png
+[1.2]: https://cdn-icons-png.flaticon.com/128/888/888853.png
 
 <!-- Links to your social media accounts -->
 
