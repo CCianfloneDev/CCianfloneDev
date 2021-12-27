@@ -10,7 +10,7 @@
  You can find me on [![LinkedIn][1]][2].
 
 <!-- Icons -->
-[1]:https://user-images.githubusercontent.com/22801918/89466567-7218c880-d74a-11ea-8d27-c83eb8a7f49c.png
+[1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- Links to your social media accounts -->
 
