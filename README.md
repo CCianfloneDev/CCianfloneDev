@@ -7,13 +7,11 @@
  ### Goal for 2022: 365 commits
  
 ## Social Media 
-LinkedIn[![LinkedIn][1]][2] Gmail[![Gmail][1.2][2.2]
+LinkedIn[![LinkedIn][1]][2]
 
 <!-- Icons -->
 [1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-[1.2]: https://cdn-icons-png.flaticon.com/128/888/888853.png
 
 <!-- Links to your social media accounts -->
 
 [2]: https://www.linkedin.com/in/colecianflone/
-[2.2]: colecianflone123@gmail.com
