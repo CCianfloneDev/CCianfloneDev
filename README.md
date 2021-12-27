@@ -6,7 +6,8 @@
 
  ### Goal for 2022: 365 commits
  
- You can find me on LinkedIn[![LinkedIn][1]][2]
+## Social Media 
+LinkedIn[![LinkedIn][1]][2]
 
 <!-- Icons -->
 [1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
