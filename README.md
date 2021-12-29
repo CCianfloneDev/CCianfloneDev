@@ -16,4 +16,4 @@ LinkedIn[![LinkedIn][1]][2]
 
 [2]: https://www.linkedin.com/in/colecianflone/
 
-- :paperclip:[My Resume](https://github.com/CCianfloneDev/CCianfloneDev/blob/main/ColeCCResume.docx)
+- :paperclip:[My Resume](https://github.com/CCianfloneDev/CCianfloneDev/blob/main/ColeCCResume.pdf)
