@@ -1,4 +1,6 @@
- # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50" /> Hi, I’m Cole Cianflone
+ # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50" /> 
+ Hi, I’m Cole Cianflone 
+   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50" />
  ## 👀 On my free time I'm either gaming, socialzing, or pecking away at coding problems
 - 🌱 I’m currently working towards my diploma in Business Information Technology at Red River College Polytechnic
 - 💞️ Open to networking and collaborating on projects!
