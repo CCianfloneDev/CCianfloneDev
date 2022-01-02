@@ -15,5 +15,3 @@ LinkedIn[![LinkedIn][1]][2]
 <!-- Links to your social media accounts -->
 
 [2]: https://www.linkedin.com/in/colecianflone/
-
-- :paperclip:[My Resume](https://github.com/CCianfloneDev/CCianfloneDev/blob/main/ColeCCResume.pdf)
