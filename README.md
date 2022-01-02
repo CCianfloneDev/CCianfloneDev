@@ -3,7 +3,7 @@
 - 🌱 I’m currently working towards my diploma in Business Information Technology at Red River College Polytechnic
 - 💞️ Open to networking and collaborating on projects!
 - 📫 Email: colecianflone123@gmail.com
-
+- :paperclip:[Resume](https://github.com/CCianfloneDev/CCianfloneDev/blob/main/ColeCCResume.pdf)
  ### Goal for 2022: 365 commits
  
 ## Social Media 
