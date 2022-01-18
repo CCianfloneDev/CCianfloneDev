@@ -4,7 +4,7 @@
 - 💞️ Open to networking and collaborating on projects!
 - 📫 Email: colecianflone123@gmail.com
 - :paperclip:[Resume](https://github.com/CCianfloneDev/CCianfloneDev/blob/main/ColeCCResume_2022.pdf)
- ### Goal for 2022: 138/365 commits
+ ### Goal for 2022: 365 commits
  
 ## Social Media 
 LinkedIn[![LinkedIn][1]][2]
