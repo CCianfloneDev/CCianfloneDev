@@ -9,9 +9,9 @@
 ## Social Media 
 LinkedIn[![LinkedIn][1]][2]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccianflonedev)](https://github.com/ccianflonedev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccianflonedev&theme=dark)](https://github.com/ccianflonedev/github-readme-stats)
 
-![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccianflonedev&show_icons=true&theme=radical)
+![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccianflonedev&show_icons=true&theme=dark)
 
 <!-- Icons -->
 [1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
