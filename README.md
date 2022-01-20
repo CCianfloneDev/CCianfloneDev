@@ -1,10 +1,12 @@
- # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50" /> Hi, I’m Cole Cianflone <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50" />
- ## On my free time I'm either gaming, socialzing, or pecking away at coding problems
+ # <p align="center"> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50" /> Hi, I’m Cole Cianflone <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50" /> </p>
+ ## <p align="center"> On my free time I'm either gaming, socialzing, or pecking away at coding problems   </p>
 - 🌱 I’m currently working towards my diploma in Business Information Technology at Red River College Polytechnic
 - 💞️ Open to networking and collaborating on projects!
 - 📫 Email: colecianflone123@gmail.com
 - :paperclip:[Resume](https://github.com/CCianfloneDev/CCianfloneDev/blob/main/ColeCCResume_2022.pdf)
+
  ### Goal for 2022: 365 commits
+
  
 ## Social Media 
 LinkedIn[![LinkedIn][1]][2]
