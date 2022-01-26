@@ -9,7 +9,7 @@
 
  
 ## Social Media 
-LinkedIn[![LinkedIn][1]][2]
+[![LinkedIn][1]][2]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccianflonedev&theme=dark)](https://github.com/ccianflonedev/github-readme-stats)
 
