@@ -5,7 +5,7 @@
 
 - 🎯 Goal for 2022: 365 commits
  
-- 🌱 I’m currently learning **C#, SQL, HTML/CSS, Object Oriented analysis, networking**
+- 🌱 I’m actively improving these skills: **C#, SQL, HTML/CSS, Object Oriented analysis, networking**
 
 - 📫 How to reach me **colecianflone123@gmail.com**
 
