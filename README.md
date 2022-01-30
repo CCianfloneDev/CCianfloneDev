@@ -7,7 +7,7 @@
  
 - 🌱 I’m actively improving these skills: **C#, SQL, HTML/CSS, Object Oriented analysis, networking**
 
-- 📫 How to reach me **colecianflone123@gmail.com**
+- 📫 How to reach me **colecianflone123@gmail.com or via my LinkedIn below!**
 
 - ⚡ Fun fact **Rabbits eat carrots.**
 
