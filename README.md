@@ -3,7 +3,7 @@
  # <p align="center"> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50" /> Hi, I’m Cole Cianflone <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50" /> </p>
  ## <p align="center"> On my free time I'm either gaming, socialzing, or pecking away at coding problems   </p>
 
-- 🎯 Goal for 2022: ~~365 commits~~ 730 commits
+- 🎯 Goal for 2022: 365 commits
  
 - 🌱 I’m actively improving these skills: **C#, SQL, HTML/CSS, Object Oriented analysis, networking**
 
