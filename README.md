@@ -9,7 +9,7 @@
 
 - 📫 Reach me via email **colecianflone123@gmail.com or my LinkedIn below!**
 
-- ⚡ Fun fact **Rabbits eat carrots.**
+- ⚡ Fun fact: **Rabbits eat carrots.**
 
 - 📄 Know about my experiences [Resume](https://github.com/CCianfloneDev/CCianfloneDev/blob/main/ColeCCResume_2022.pdf)
 
