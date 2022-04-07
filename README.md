@@ -5,7 +5,7 @@
 
 - 🎯 Goal for 2022: ~365 commits~ 730 commits
  
-- 🌱 I’m actively improving these skills: **C#, SQL, HTML/CSS, Object Oriented analysis, networking**
+- 🌱 I’m actively improving these skills: **C#, SQL, Relational Databases, HTML5, CSS, Javascript, Object Oriented design-analysis, networking**
 
 - 📫 Reach me via email **colecianflone123@gmail.com or my LinkedIn below!**
 
