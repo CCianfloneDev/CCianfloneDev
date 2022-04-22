@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: **Rabbits eat carrots.**
 
-- 📄 Know about my experiences [Resume](https://github.com/CCianfloneDev/CCianfloneDev/blob/main/ColeCCResume_2022.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/CCianfloneDev/CCianfloneDev/blob/main/ColeCianflone_ResumeFINAL.pdf)
 
 <!-- Social media -->
 <h3 align="left">Connect with me:</h3>
