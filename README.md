@@ -7,7 +7,7 @@
  
 - 🌱 I’m actively improving these skills: **C#, SQL, Relational Databases, HTML5, CSS, Javascript, Object Oriented design-analysis, networking**
 
-- 📫 Reach me via email **colecianflone123@gmail.com or my LinkedIn below!**
+- 📫 Reach me via email **colecianflone123@gmail.com (primary) || ccianflone2@academic.rrc.ca (academic) or my LinkedIn below!**
 
 - ⚡ Fun fact: **Rabbits eat carrots.**
 
