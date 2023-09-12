@@ -3,16 +3,6 @@
  # <p align="center"> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50" /> Hi, I’m Cole Cianflone <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50" /> </p>
  ## <p align="center"> On my free time I'm either gaming, socialzing, or pecking away at coding problems   </p>
 
-- 🎯 Goal for 2022: ~365 commits~ 730 commits
- 
-- 🌱 I’m actively improving these skills: **C#, SQL, Relational Databases, HTML5, CSS, Javascript, Object Oriented design-analysis, networking**
-
-- 📫 Reach me via email **colecianflone123@gmail.com (primary) || ccianflone2@academic.rrc.ca (academic) or my LinkedIn below!**
-
-- ⚡ Fun fact: **Rabbits eat carrots.**
-
-- 📄 Know about my experiences [Resume](https://github.com/CCianfloneDev/CCianfloneDev/blob/main/ColeCianflone_ResumeFINAL.pdf)
-
 <!-- Social media -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
