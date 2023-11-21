@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on finishing graduating BIT program.<br>👯 I’m looking to collaborate on any new projects.<br>🌱 I’m currently learning NextJS, .NET maui.<br>💬 Ask me about Visual Basic, VB.NET, and converting legacy VBA vb6 applications to .NET.<br>⚡ Fun fact, rabbits eat carrots.
+🔭 I’m currently working on finishing graduating BIT program.<br>👯 I’m looking to collaborate on any new projects.<br>🌱 I’m currently learning NextJS and .NET maui.<br>💬 Ask me about Visual Basic, VB.NET, and converting legacy VBA vb6 applications to .NET.<br>⚡ Fun fact, rabbits eat carrots.
 
 
 ## 🌐 Socials:
