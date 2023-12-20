@@ -1,6 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on finishing college program and I'm a developer in a DevOps envrionment of a .NET shop, particularly VB.NET.<br>👯 I’m looking to collaborate on any new projects.<br>🌱 I’m currently learning NextJS and .NET maui.<br>💬 Ask me about Visual Basic, VB.NET, and converting legacy VBA VB6 applications to .NET.<br>⚡ Fun fact, rabbits eat carrots.
+🚀 Full-stack Application Developer @ StandardAero | DevOps Enthusiast | Future Industry Trailblazer
 
+🎓 Proud graduate in Business Information Technology from RRCPolytech, well-versed in diverse facets of software development. While having a knack for desktop development using tools like Visual Studio and .NET, I've honed skills in various domains, orchestrating projects from inception to deployment with finesse.
+
+👔 As a former Vice President of the Bits And Bytes Association (FA2022 term), I've honed leadership skills while being a perennial executive member. My volunteering endeavors at Red River College Polytechnic shaped my commitment to excellence.
+
+🖥️ Steering the ship of code as an Application Developer, I treat my keyboard like a conductor's baton, orchestrating software symphonies. When I'm not debugging the matrix, I decrypt the language of laughter, ensuring that fun and joy compile seamlessly into my life's algorithm
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colecianflone/) 
